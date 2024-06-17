@@ -9,7 +9,7 @@ class A{ //외부 클래스
 		System.out.println(n);
 	}
 	static void bcd() {
-		System.out.println(m);
+		//System.out.println(m);
 		System.out.println(n);
 	}
 }
